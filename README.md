@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey there, I'm João Gomes 👋
 
-<!--
-**joaolpgomes87/joaolpgomes87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![matrixgif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb256eWNpN3c2bWFpbXB0dTM3aDB6aDF1bW9oZmZsbDEzZXMxMWRxMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dbtDDSvWErdf2/giphy.gif)
+
+
+
+## 🚀 Who am I?
+
+- 💻 I've been coding since 2012 (yes...that long)
+
+- 🇵🇹 Back in sunny Portugal after living in the UK
+
+- 👶 Raising a tiny human while debugging some stuff
+
+- ✈️ Passionate about traveling
+
+- 🎬 Can quote movie lines better than I remember my own code

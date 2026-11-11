@@ -8,7 +8,7 @@
 
 ## 🚀 Who am I?
 
-- 💻 Coding for over 10 years (yes...that long)
+- 💻 Coding for over 13 years (yes...that long)
 
 - 🇵🇹 Back in sunny Portugal after living in the UK
 
